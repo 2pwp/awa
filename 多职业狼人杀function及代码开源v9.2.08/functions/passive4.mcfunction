@@ -1,0 +1,10 @@
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=100..199,移动=200..400,移动=!201..299,移动=!301..399},tag=!死亡] 移动 100
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=111..171,职业=!112..120,职业=!124,职业=!126..133,职业=!135..141,职业=!143,职业=!145,职业=!147..152,职业=!155,职业=!157..170,移动=100},tag=!死亡] 移动 200
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=123,移动=200},tag=!死亡] 移动 300
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=200..299,移动=100..400,移动=!101..199,移动=!201..399},tag=!死亡] 移动 300
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=221..242,职业=!222..241,移动=300},tag=!死亡] 移动 400
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=300..,移动=100..400,移动=!101..299,移动=!301..399},tag=!死亡] 移动 200
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=311..331,职业=!314..320,职业=!323..330,移动=200},tag=!死亡] 移动 300
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=331,移动=300},tag=!死亡] 移动 400
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=213,隐身=..1},tag=!死亡] 隐身 2
+scoreboard players set @e[tag=游戏,tag=玩家,scores={职业=311,任务=0},tag=死亡] 任务 1
